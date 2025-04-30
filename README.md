@@ -1,4 +1,6 @@
-# EmpowerAgent: A Neuro-Symbolic Temporal Agent Architecture
+# A Brain-Inspired Adaptive Cognitive Agent Based on Temporal Logic and Empowerment Learning
+
+
 
 > 🧠 From Goal-Driven Planning to Temporal Cognition — integrating **Empowerment**, **NARS Reasoning**, **Temporal Memory**, and **NHMS** scheduling.
 
